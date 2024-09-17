@@ -12,9 +12,4 @@ To run this project, you'll need the following:
 2. A Google Cloud Project with Calendar API enabled
 3. OAuth 2.0 Credentials (`credentials.json`)
 
-### Setting Up the Project
 
-#### 1. Clone the Repository:
-```bash
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
