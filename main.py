@@ -12,8 +12,9 @@ from googleapiclient.errors import HttpError
 
 # If modifying these scopes, delete the file token.json.
 SCOPES = ['https://www.googleapis.com/auth/calendar']
-YOUR_CALENDAR_ID = '0b3a23e0d6117ac7c5f0675a59e102b2de6b60a2611da7f76128a2aa6b9b9068@group.calendar.google.com'
-YOUR_TIMEZONE = 'Asia/Kolkata'  # Ensure you use the correct timezone
+#Add Your Google Calendar ID
+YOUR_CALENDAR_ID = ''
+YOUR_TIMEZONE = 'Asia/Kolkata'  
 
 
 def main():
